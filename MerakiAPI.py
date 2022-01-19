@@ -3,7 +3,7 @@ from tkinter import *
 from tkinter import ttk 
 
 ##https://developer.cisco.com/meraki/api-v1/#!get-device
-API_KEY = "DATA_OMMITED"
+API_KEY = "6083248ab12f9bdbe9a4e09bca9b5bcdf79c4a49"
 ORG_ID = "629977"
 
 def getMerakiData():
